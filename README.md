@@ -19,12 +19,7 @@ Spatio-Temporal CoT"](https://openreview.net/forum?id=P6G1Z6jkf3)**<br>
 
 ### Introduction
 
-Egocentric video reasoning centers on an unobservable agent behind the camera who dynamically shapes the environment, requiring inference of hidden intentions and recognition of fine-grained interactions.
-This core challenge limits current multimodal large language models (MLLMs), which excel at visible event reasoning but lack embodied, first-person understanding.
-To bridge this gap, we introduce \textbf{EgoThinker}, a novel framework that endows MLLMs with robust egocentric reasoning capabilities through spatio-temporal chain-of-thought supervision and a two-stage learning curriculum. 
-First, we introduce \textbf{EgoRe-5M}, a large-scale egocentric QA dataset constructed from 13M diverse egocentric video clips. 
-This dataset features multi-minute segments annotated with detailed CoT rationales and dense hand–object grounding. Second, we employ SFT on EgoRe-5M to instill reasoning skills, followed by reinforcement fine-tuning (RFT) to further enhance spatio-temporal localization. 
-Experimental results show that EgoThinker outperforms existing methods across multiple egocentric benchmarks, while achieving substantial improvements in fine-grained spatio-temporal localization tasks. 
+Egocentric video reasoning focuses on the unseen, egocentric agent who shapes the scene, demanding inference of hidden intentions and fine-grained interactions—areas where current MLLMs struggle. We present EgoThinker, a framework that equips MLLMs with strong egocentric reasoning via spatio-temporal chain-of-thought supervision and a two-stage curriculum. We build EgoRe-5M, a large-scale QA dataset derived from 13M egocentric clips, featuring multi-minute segments with detailed rationales and dense hand–object grounding. Trained with SFT on EgoRe-5M and refined with RFT for better spatio-temporal localization, EgoThinker outperforms prior methods on multiple egocentric benchmarks and yields substantial gains in fine-grained localization tasks.
 
 <div align="center">
 <img src="assets/teaser.jpg">
