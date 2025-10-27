@@ -1,6 +1,6 @@
-# 🦜 EgoThinker
+# EgoThinker
 
-This repo is the official implementation of EgoThinker at NIPS 2025 (coming soon)
+This repo is the official implementation of EgoThinker at NeurIPS 2025 (coming soon)
 
 > **["Unveiling Egocentric Reasoning with
 Spatio-Temporal CoT"](https://openreview.net/forum?id=P6G1Z6jkf3)**<br>
@@ -30,39 +30,22 @@ Egocentric video reasoning focuses on the unseen, egocentric agent who shapes th
 
 - **Coming Soon:** Paper, Dataset, SFT/RFT training code and evaluation code release.
 
-
-### 🚀 Getting Started
-
-1. Clone the Repository
-
-```bash
-git clone https://github.com/InternRobotics/EgoThinker
-cd EgoThinker
-````
-
-2. Set Up the Python Environment
-
-```bash
-conda create -n egothinker python=3.10.18
-conda activate egothinker
-```
-
-3. Install project dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-
 ### 🛠️ Method
 
-#### coming soon
+This repo contains three parts:
+
+- [EgoThinker-SFT](https://github.com/InternRobotics/EgoThinker/EgoThinker-SFT): SFT training code for EgoThinker.
+- [EgoThinker-RFT](https://github.com/InternRobotics/EgoThinker/EgoThinker-RFT): RFT training code for EgoThinker. 
+- [lmms-eval](https://github.com/InternRobotics/EgoThinker/lmms-eval): Evaluation code for egocentric and embodied QA benchmarks.
 
 ### 🤗 Feedback & Support
 
 We welcome feedback and issues. Thank you for trying our EgoThinker!
 
----
+### 📜 Citation
+
+```bibtex
+```
 
 ### 📄 Acknowledgments
 
@@ -72,4 +55,6 @@ Our code is built projects:
 * **VideoChat-R1** — [https://github.com/OpenGVLab/VideoChat-R1](https://github.com/OpenGVLab/VideoChat-R1)
 * **lmms-eval** — [https://github.com/EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
 
+
 ---
+
