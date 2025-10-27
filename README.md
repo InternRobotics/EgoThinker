@@ -34,9 +34,9 @@ Egocentric video reasoning focuses on the unseen, egocentric agent who shapes th
 
 This repo contains three parts:
 
-- [EgoThinker-SFT](https://github.com/InternRobotics/EgoThinker/EgoThinker-SFT): SFT training code for EgoThinker.
-- [EgoThinker-RFT](https://github.com/InternRobotics/EgoThinker/EgoThinker-RFT): RFT training code for EgoThinker. 
-- [lmms-eval](https://github.com/InternRobotics/EgoThinker/lmms-eval): Evaluation code for egocentric and embodied QA benchmarks.
+- [EgoThinker-SFT](https://github.com/InternRobotics/EgoThinker/tree/main/EgoThinker-SFT): SFT training code for EgoThinker.
+- [EgoThinker-RFT](https://github.com/InternRobotics/EgoThinker/tree/main/EgoThinker-RFT): RFT training code for EgoThinker. 
+- [lmms-eval](https://github.com/InternRobotics/EgoThinker/tree/main/lmms-eval): Evaluation code for egocentric and embodied QA benchmarks.
 
 ### 🤗 Feedback & Support
 
