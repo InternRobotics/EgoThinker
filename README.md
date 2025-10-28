@@ -3,12 +3,11 @@
 This repo is the official implementation of EgoThinker at NeurIPS 2025 (coming soon)
 
 > **["Unveiling Egocentric Reasoning with
-Spatio-Temporal CoT"](https://openreview.net/forum?id=P6G1Z6jkf3)**<br>
+Spatio-Temporal CoT"](https://arxiv.org/abs/2510.23569)**<br>
 > [Baoqi Pei](https://scholar.google.com/citations?user=sTCkd54AAAAJ), [Yifei Huang](https://scholar.google.com/citations?user=RU8gNcgAAAAJ), [Jilan Xu](https://scholar.google.com/citations?user=mf2U64IAAAAJ), Yuping He, [Guo Chen](https://scholar.google.com/citations?user=lRj3moAAAAAJ),<br> 
 > [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ),  [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), [Jiangmiao Pang](https://scholar.google.com/citations?user=ssSfKpAAAAAJ&hl=zh-CN&oi=ao)<br>
 
 
-<a href='https://github.com/InternRobotics/EgoThinker'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href="https://github.com/InternRobotics/EgoThinker"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a> &nbsp;
 <a href="https://github.com/InternRobotics/EgoThinker"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a> &nbsp;
 
@@ -28,7 +27,7 @@ Egocentric video reasoning focuses on the unseen, egocentric agent who shapes th
 
 ### 📰 News
 
-- **Coming Soon:** Paper, Dataset, SFT/RFT training code and evaluation code release.
+- **`2025-10-28`**: We released our paper and code.
 
 ### 🛠️ Method
 
@@ -45,6 +44,15 @@ We welcome feedback and issues. Thank you for trying our EgoThinker!
 ### 📜 Citation
 
 ```bibtex
+@misc{pei2025egothinkerunveilingegocentricreasoning,
+      title={EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT}, 
+      author={Baoqi Pei and Yifei Huang and Jilan Xu and Yuping He and Guo Chen and Fei Wu and Yu Qiao and Jiangmiao Pang},
+      year={2025},
+      eprint={2510.23569},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.23569}, 
+}
 ```
 
 ### 📄 Acknowledgments
