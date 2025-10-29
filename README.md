@@ -1,6 +1,6 @@
 # EgoThinker
 
-This repo is the official implementation of EgoThinker at NeurIPS 2025 (coming soon)
+This repo is the official implementation of EgoThinker at NeurIPS 2025
 
 > **["Unveiling Egocentric Reasoning with
 Spatio-Temporal CoT"](https://arxiv.org/abs/2510.23569)**<br>
