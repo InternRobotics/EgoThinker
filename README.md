@@ -8,8 +8,8 @@ Spatio-Temporal CoT"](https://arxiv.org/abs/2510.23569)**<br>
 > [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ),  [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), [Jiangmiao Pang](https://scholar.google.com/citations?user=ssSfKpAAAAAJ&hl=zh-CN&oi=ao)<br>
 
 
-<a href="https://github.com/InternRobotics/EgoThinker"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a> &nbsp;
-<a href="https://github.com/InternRobotics/EgoThinker"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a> &nbsp;
+<a href="https://huggingface.co/hyf015/EgoThinker-v1"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a> &nbsp;
+<a href="https://huggingface.co/datasets/hyf015/EgoThinker-SFT-Dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a> &nbsp;
 
 ⭐️: We are also working on a updated version for **spatial understanding** and **embodied QA**, stay tuned! 
 
@@ -27,6 +27,7 @@ Egocentric video reasoning focuses on the unseen, egocentric agent who shapes th
 
 ### 📰 News
 
+- **`2025-10-29`**: We released [EgoThinker-v1 ckpt](https://huggingface.co/hyf015/EgoThinker-v1) and [training data](https://huggingface.co/datasets/hyf015/EgoThinker-SFT-Dataset).
 - **`2025-10-28`**: We released our paper and code.
 
 ### 🛠️ Method
