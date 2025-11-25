@@ -21,4 +21,4 @@ bash scripts/egotaskqa.sh
 
 - The benchmark code for more Egocentric and Embodied QA benchmarks will be updated gradually. Please stay tuned for updates.
 
-- Currently supported benchmarks: `EgotaskQA`, `VLN-QA`, `VISOR`
+- Currently supported benchmarks: `EgotaskQA`, `VLN-QA`, `VISOR`, `EgoExoLearn`

@@ -27,6 +27,7 @@ Egocentric video reasoning focuses on the unseen, egocentric agent who shapes th
 
 ### 📰 News
 
+- **`2025-11-25`**: We released [Evaluation Data](https://huggingface.co/datasets/hyf015/egothinker_eval_dataset/tree/main), including datasets from Visor data for spatial grounding and the EgoExoLearn dataset for temporal grounding.
 - **`2025-10-29`**: We released [EgoThinker-v1 ckpt](https://huggingface.co/hyf015/EgoThinker-v1) and [training data](https://huggingface.co/datasets/hyf015/EgoThinker-SFT-Dataset).
 - **`2025-10-28`**: We released our paper and code.
 
